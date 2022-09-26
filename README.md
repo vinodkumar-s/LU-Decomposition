@@ -16,12 +16,10 @@ To write a program to find the LU Decomposition of a matrix.
 6. Print Array X as the solution
 ## Program:
 (i) To find the L and U matrix
-```
-/*
-Program to find the L and U matrix.
-Developed by: s.vinod kumar
-RegisterNumber: 22004903
-*/
+## Program to find the L and U matrix.
+## Developed by: s.vinod kumar
+## RegisterNumber: 22004903
+```python
 from scipy.linalg import lu
 a=eval(input())
 P,L,U=lu(a)
@@ -30,12 +28,10 @@ print(U)
 ```
 
 (ii) To find the LU Decomposition of a matrix
-```
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by: s.vinod kumar
-RegisterNumber: 22004903
-*/
+## Program to find the LU Decomposition of a matrix.
+## Developed by: s.vinod kumar
+## RegisterNumber: 22004903
+```python
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 a=eval(input())
