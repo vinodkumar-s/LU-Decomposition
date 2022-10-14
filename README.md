@@ -15,8 +15,8 @@ To write a program to find the LU Decomposition of a matrix.
 5. Find X by solving UX = V by backward substitution
 6. Print Array X as the solution
 ## Program:
-(i) To find the L and U matrix
-## Program to find the L and U matrix.
+
+## (i) Program to find the L and U matrix.
  Developed by: s.vinod kumar
  
  RegisterNumber: 22004903
@@ -28,8 +28,7 @@ print(L)
 print(U)
 ```
 
-(ii) To find the LU Decomposition of a matrix
-## Program to find the LU Decomposition of a matrix.
+## (ii)  Program to find the LU Decomposition of a matrix.
  Developed by: s.vinod kumar
  
  RegisterNumber: 22004903
